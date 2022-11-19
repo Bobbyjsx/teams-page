@@ -177,7 +177,8 @@ header{
         flex-wrap: nowrap;
         width: 100%;
         justify-content: center;
-       gap: 4%;
+        gap: 4%;
+        
        
         
     }
