@@ -1,5 +1,5 @@
 import React from "react";
-import panda from    "../pages/Img/Panda.png"
+import Panda from    "../pages/Img/Panda.png"
 import cook from     "../pages/Img/Cook.png"
 import steve from    "../pages/Img/Steve.png"
 import aise from     "../pages/Img/Aise.png"
@@ -15,7 +15,7 @@ function Meet(){
         <h2 id="hala">Meet Our <span id='blue'>Team</span></h2>
            <p id="duh">We have a team of developers from all stacks, devoted to helping you debug your next project</p>
            <div id='img'>
-             <img id='image' alt=" " src={panda} />
+             <img id='image' alt=" " src={Panda} />
                <img id='image' alt=" " src={cook} />
                  <img id='image' alt=" " src={steve} />
                   <img id='image' alt=" " src={aise} />
