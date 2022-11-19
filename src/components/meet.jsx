@@ -1,13 +1,13 @@
 import React from "react";
-import panda from    "../pages/Img/panda.png"
-import cook from     "../pages/Img/cook.png"
-import steve from    "../pages/Img/steve.png"
-import aise from     "../pages/Img/aise.png"
-import uba from      "../pages/Img/uba.png"
-import damilore from "../pages/Img/damilore.png"
-import lee from      "../pages/Img/lee.png"
-import eternal from  "../pages/Img/eternal.png"
-import phorlar from  "../pages/Img/phorlar.png"
+import panda from    "../pages/Img/Panda.png"
+import cook from     "../pages/Img/Cook.png"
+import steve from    "../pages/Img/Steve.png"
+import aise from     "../pages/Img/Aise.png"
+import uba from      "../pages/Img/Uba.png"
+import damilore from "../pages/Img/Damilore.png"
+import lee from      "../pages/Img/Lee.png"
+import eternal from  "../pages/Img/Eternal.png"
+import phorlar from  "../pages/Img/Phorlar.png"
 
 function Meet(){
     return(
